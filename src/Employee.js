@@ -16,6 +16,13 @@ function Employee() {
                 <input type={"text"} className="blue" value={'End Work'} disabled></input>
                 <input type={"text"} className="purple" value={'Hours / Days'} disabled></input>
             </section>
+            <section className='tableBody'>
+                <div className='tr'></div>
+                <div className='tr'></div>
+                <div className='tr'></div>
+                <div className='tr'></div>
+                <div className='tr'></div>
+            </section>
         </div>
     </div>
   )
