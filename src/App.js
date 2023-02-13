@@ -1,9 +1,9 @@
 import React from 'react'
 
-function App() {
+function TimeSheet() {
   return (
-    <div>App</div>
+    <div>TimeSheet</div>
   )
 }
 
-export default App
+export default TimeSheet
